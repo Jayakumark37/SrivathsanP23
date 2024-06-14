@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **DataScience**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrivathsanP23](https://github.com/SrivathsanP23)
 
