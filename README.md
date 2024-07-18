@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srivathsan P</h1>
 <h3 align="center">adept frontend developer with strong Java skills and expertise in object-oriented programming concepts. and currently transitioning into data science.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srivathsanp23" alt="srivathsanp23" /></a> </p>
-
 - 🔭 I’m currently working on **Java**
 
 - 🌱 I’m currently learning **DataScience**
