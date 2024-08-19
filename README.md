@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Srivathsan P</h1>
+<h1 align="center">Hi 👋, I'm Srivathsan P 😎</h1>
 <h3 align="center">adept frontend developer with strong Java skills and expertise in object-oriented programming concepts. and currently transitioning into data science.</h3>
 
-- 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently learning **Machine Learning** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrivathsanP23](https://github.com/SrivathsanP23)
 
