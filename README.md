@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Srivathsan P 😎</h1>
-<h3 align="center">adept frontend developer with strong Java skills and expertise in object-oriented programming concepts. and currently transitioning into data science.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Srivathsan+P!😎;" />
+</h1>
+
+<!--><h3 align="center">adept frontend developer with strong Java skills and expertise in object-oriented programming concepts. and currently transitioning into data science.</h3>
 
 
 - 🔭 I’m currently learning **Machine Learning** 
