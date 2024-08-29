@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Cedarville+Cursive&family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
 
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=700&size=29&duration=3500&pause=1000&color=33F564&center=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Srivathsan+P+%F0%9F%98%8E" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=700&size=29&duration=3500&pause=1000&color=13DFF3FF&center=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Srivathsan+P+%F0%9F%98%8E" alt="Typing SVG" /></a>
 </h1>
 
 <!--><h3 align="center">adept frontend developer with strong Java skills and expertise in object-oriented programming concepts. and currently transitioning into data science.</h3>
