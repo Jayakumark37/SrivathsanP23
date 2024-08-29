@@ -1,5 +1,9 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Cedarville+Cursive&family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Srivathsan+P!😎;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3800&lines=Hi+There!+👋;+I'm+Srivathsan+P!😎;" />
 </h1>
 
 <!--><h3 align="center">adept frontend developer with strong Java skills and expertise in object-oriented programming concepts. and currently transitioning into data science.</h3>
