@@ -6,8 +6,6 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=700&size=29&duration=3500&pause=1000&color=13DFF3FF&center=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Srivathsan+P+%F0%9F%98%8E" alt="Typing SVG" /></a>
 </h1>
 
-<!--><h3 align="center">adept frontend developer with strong Java skills and expertise in object-oriented programming concepts. and currently transitioning into data science.</h3>
-
 
 - 🔭 I’m currently learning **Machine Learning** 
 
