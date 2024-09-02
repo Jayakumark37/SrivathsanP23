@@ -3,8 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Cedarville+Cursive&family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=1000&color=ECF79C&width=435&lines=Hi!%F0%9F%91%8B+I'm+Srivathsan+P+%F0%9F%98%89;Always+eager+to+learn+and+create." alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=3000&pause=1000&color=ECF79C&width=435&lines=Hi!%F0%9F%91%8B+I'm+Srivathsan+P+%F0%9F%98%89;an+avid+learner+who+enjoys+exploring+new+things." alt="Typing SVG" /></a>
 <img align="right" src="https://media1.tenor.com/m/O9P6oHeJ5MwAAAAd/dog-smile.gif" alt="Waving hand">
 </h1>
 
