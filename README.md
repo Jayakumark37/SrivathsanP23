@@ -4,6 +4,8 @@
 
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=700&size=29&duration=3500&pause=1000&color=13DFF3FF&center=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Srivathsan+P+%F0%9F%98%8E" alt="Typing SVG" /></a>
+   
+<img align="right" src="https://media1.tenor.com/m/O9P6oHeJ5MwAAAAd/dog-smile.gif" alt="Waving hand">
 </h1>
 
 
@@ -18,7 +20,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DMmc6YcvEtFw18aTbtCOoSs723jKkqQb/view?usp=sharing](https://drive.google.com/file/d/1DMmc6YcvEtFw18aTbtCOoSs723jKkqQb/view?usp=sharing)
 
 
-<img align="right" src="https://media1.tenor.com/m/O9P6oHeJ5MwAAAAd/dog-smile.gif" alt="Waving hand" height="140px" width="140px">
 
 <br/><br/>
 <h2 align="center">Connect with me:</h2>
