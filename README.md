@@ -2,7 +2,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Cedarville+Cursive&family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
 
-<img src="https://media1.tenor.com/m/O9P6oHeJ5MwAAAAd/dog-smile.gif" alt="Waving hand">
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=700&size=29&duration=3500&pause=1000&color=13DFF3FF&center=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Srivathsan+P+%F0%9F%98%8E" alt="Typing SVG" /></a>
 </h1>
@@ -17,6 +16,9 @@
 - 📫 How to reach me **https://linktr.ee/SrivathsanP**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DMmc6YcvEtFw18aTbtCOoSs723jKkqQb/view?usp=sharing](https://drive.google.com/file/d/1DMmc6YcvEtFw18aTbtCOoSs723jKkqQb/view?usp=sharing)
+
+
+<img src="https://media1.tenor.com/m/O9P6oHeJ5MwAAAAd/dog-smile.gif" alt="Waving hand">
 
 <br/><br/>
 <h2 align="center">Connect with me:</h2>
