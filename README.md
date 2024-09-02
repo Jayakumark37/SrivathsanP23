@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DMmc6YcvEtFw18aTbtCOoSs723jKkqQb/view?usp=sharing](https://drive.google.com/file/d/1DMmc6YcvEtFw18aTbtCOoSs723jKkqQb/view?usp=sharing)
 
 
-<img src="https://media1.tenor.com/m/O9P6oHeJ5MwAAAAd/dog-smile.gif" alt="Waving hand">
+<img align="right" src="https://media1.tenor.com/m/O9P6oHeJ5MwAAAAd/dog-smile.gif" alt="Waving hand" height="60px" width="40px">
 
 <br/><br/>
 <h2 align="center">Connect with me:</h2>
