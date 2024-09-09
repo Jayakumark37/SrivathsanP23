@@ -4,7 +4,7 @@
 
 <h1 align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&duration=3000&pause=1000&color=DDFF88&center=true&vCenter=true&width=510&lines=Hi!%F0%9F%91%8B+I'm+Srivathsan+P+%F0%9F%98%89;an+avid+learner+who+enjoys+exploring+new+things%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>  <br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&duration=3000&pause=1000&color=ADFF88&center=true&vCenter=true&width=510&lines=Hi!%F0%9F%91%8B+I'm+Srivathsan+P+%F0%9F%98%89;an+avid+learner+who+enjoys+exploring+new+things%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>  <br><br>
 <img align="right" src="https://media1.tenor.com/m/O9P6oHeJ5MwAAAAd/dog-smile.gif" alt="Waving hand">
 </h1>
 
