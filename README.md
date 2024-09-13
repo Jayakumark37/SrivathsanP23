@@ -22,7 +22,7 @@
 
 
 <br/><br/>
-<br><br><br><br>
+<br><br>
 <h2 align="center">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/srivathsan2305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srivathsan2305" height="30" width="40" /></a>
