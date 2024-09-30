@@ -3,12 +3,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Cedarville+Cursive&family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
 
 <h1 align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&duration=3000&pause=1000&color=36C2CE&center=true&vCenter=true&width=510&lines=Hi!%F0%9F%91%8B+I'm+Srivathsan+P+%F0%9F%98%89;an+avid+learner+who+enjoys+exploring+new+things%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>  <br><br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&duration=3000&pause=1000&color=36C2CE&center=true&vCenter=true&width=510&lines=Hi!%F0%9F%91%8B+I'm+Srivathsan+P+%F0%9F%98%89;an+avid+learner+who+enjoys+exploring+new+things%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>  <br><br><br></h1>
 <img align="right" src="https://media1.tenor.com/m/O9P6oHeJ5MwAAAAd/dog-smile.gif" alt="Waving hand">
-</h1>
 
-<br><br>
+
 - 🔭 I’m currently learning **Machine Learning** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrivathsanP23](https://github.com/SrivathsanP23)
